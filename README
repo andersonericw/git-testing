@@ -12,3 +12,4 @@ only pulls files that do not exist in the client repo
 
 headless:
 have a commit but no branch
+git log, grab a commit id and git checkout <id>
