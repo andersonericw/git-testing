@@ -8,7 +8,7 @@ go to the repo on the web client and create a new file. Do a git pull to pull th
 does a fetch + merge
 
 git fetch: 
-only pulls files that do not exist in the client repo
+updates the pointer in origin/<branch>, allows for merging a branch with origin/<branch>
 
 headless:
 have a commit but no branch
