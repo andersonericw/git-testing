@@ -5,3 +5,10 @@ checkout your first branch and go a rebase to the second branch which incorporat
 
 git pull:
 go to the repo on the web client and create a new file. Do a git pull to pull the file into the repo
+does a fetch + merge
+
+git fetch: 
+only pulls files that do not exist in the client repo
+
+headless:
+have a commit but no branch
