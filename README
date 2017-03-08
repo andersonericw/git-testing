@@ -1,4 +1,7 @@
-rebase:
+git rebase:
 create a branch off master, add a file to it and commit, do not push
 create a second branch off master, make a change, commit and push
 checkout your first branch and go a rebase to the second branch which incorporates these changes
+
+git pull:
+go to the repo on the web client and create a new file. Do a git pull to pull the file into the repo
